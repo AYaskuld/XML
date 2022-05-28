@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report_structure>
+  <id>ID</id>
+  <sum>Summary</sum>
+  <desc>Description</desc>
+  <prec>Preconditions</prec>
+  <str>Step to reproduce</str>
+  <exr>Expected result</exr>
+  <att>Attachments</att>
+  <sev>Severity</sev>
+  <prior>Priority</rior>
+</bug_report_structure>
